@@ -6,6 +6,7 @@ widget: featurette
 # This file represents a page section.
 headless: true
 
+
 # Order that this section appears on the page.
 weight: 30
 
@@ -16,19 +17,31 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
+- description: R, Python, Matplotlib/ggplot2, Numpy, Pandas
+  icon: database
+  icon_pack: fas
+  name: Data analyst
+- description: Tableau Desktop Specialist
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Visualization
+- description: JavaScript, SQL, Java, C++
+  icon: code
   icon_pack: fas
-  name: Photography
+  name: Programming
 
+- description: Git, VS Code, Rstudio, 
+  icon: tools
+  icon_pack: fas
+  name: Tools
+- description:  HTML, CSS, Node.js, React, RESTful
+  icon: chrome
+  icon_pack: fab
+  name: Web Development
+- description: Sklearn, Pandas, TensorFlow
+  icon: atom
+  icon_pack: fas
+  name: Machine Learning
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

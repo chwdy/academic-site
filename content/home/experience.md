@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 60
 
 title: Experience
 subtitle:
@@ -22,24 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: SAP Implementation Project Intern
+    company: Capgemini Consulting
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Guangzhou, China
+    date_start: '2019-02-25'
+    date_end: '2019-05-18'
     description: |2-
-        Responsibilities include:
+      •	Established testing procedures for a web application to provide easy access to the ERP system on WeChat
+      •	Solved 90% of bug cases with the software, documenting every case on the error report for follow-ups
+      •	Generated testing environment datasets using Navicat software to manipulate MySQL database
+
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Industrial Engineer Intern
+    company: Avic Shenyang Aircraft Co., Ltd. 
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Shenyang, China
+    date_start: '2018-07-23'
+    date_end: '2018-08-17'
+    description: |2-
+      •	Devised a research paper focus on high temperature and noise pollution in the factory
+      •	Developed 2 solutions for these problems, including using electric power, air conditioners
+      •	Monitored and tracked factory environment on temperature and noise using thermometer and decibel meter
+
+  - title: Management Assistant
+    company: Metro Construction Business Center
+    company_url: ''
+    location: Guangzhou, China
+    date_start: '2018-01-15'
+    date_end: '2018-02-13'
+    description: |2-
+      •	Demonstrated company’s accomplishments by producing a 4-minute video presentation  
+      •	Organized the annual meeting venue for 200 people by managing the audio and video setup
+      •	Streamlined the reporting process on the database of supplier project progress information
+
 ---
