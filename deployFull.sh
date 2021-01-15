@@ -3,7 +3,7 @@
 if [ $1 = "push" ]; then
     if [ $# -eq 1 ]; then
         TIME_NOW=$(date +%T\ %F)
-        MSG="Change something nobody knows at ${TIME_NOW}..."
+        MSG="Must be bugfix at ${TIME_NOW}..."
         EDITED_FILE="."
 
     elif [ $# -eq 2 ]; then
