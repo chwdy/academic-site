@@ -15,23 +15,24 @@ role: MS IE student
 # Organizations/Affiliations
 organizations:
 - name: NYU Tandon school of engineering
-  url: ""
+  url: "https://engineering.nyu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am quick learner intrested in analyst and programming
 
 # List each interest with a dash
-#interests:
-#- Sleep
+interests:
+- Programming
+- Analytics
 
-# education:
-#   courses:
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
+education:
+  courses:
+  - course: MS Industrial Engineering
+    institution: New York University
+    year: 2019 - 2021(expected)
+  - course: Industrial Engineering, Bachelor of Buniness Administration
+    institution: Northeastern University - China
+    year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -74,3 +75,5 @@ I am passionate about coding and have proven to be a quick learner. Experienced 
 The following are my technical abilities:
 - Programming languages : HTML, CSS, JavaScript
 - Front End frameworks: Node.JS and ReactJS
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "Diwei_Zhu_NYU_IE_9178646724_210107-BA.pdf" "newtab" >}}resumé{{< /staticref >}}.
