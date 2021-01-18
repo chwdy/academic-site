@@ -29,8 +29,8 @@ experience:
     date_start: '2019-02-25'
     date_end: '2019-05-18'
     description: |2-
-      •	Established testing procedures for a web application to provide easy access to the ERP system on WeChat
-      •	Solved 90% of bug cases with the software, documenting every case on the error report for follow-ups
+      •	Established testing procedures for a web application to provide easy access to the ERP system on WeChat  
+      •	Solved 90% of bug cases with the software, documenting every case on the error report for follow-ups  
       •	Generated testing environment datasets using Navicat software to manipulate MySQL database
 
         
@@ -41,8 +41,8 @@ experience:
     date_start: '2018-07-23'
     date_end: '2018-08-17'
     description: |2-
-      •	Devised a research paper focus on high temperature and noise pollution in the factory
-      •	Developed 2 solutions for these problems, including using electric power, air conditioners
+      •	Devised a research paper focus on high temperature and noise pollution in the factory  
+      •	Developed 2 solutions for these problems, including using electric power, air conditioners  
       •	Monitored and tracked factory environment on temperature and noise using thermometer and decibel meter
 
   - title: Management Assistant
@@ -53,7 +53,7 @@ experience:
     date_end: '2018-02-13'
     description: |2-
       •	Demonstrated company’s accomplishments by producing a 4-minute video presentation  
-      •	Organized the annual meeting venue for 200 people by managing the audio and video setup
+      •	Organized the annual meeting venue for 200 people by managing the audio and video setup  
       •	Streamlined the reporting process on the database of supplier project progress information
 
 ---

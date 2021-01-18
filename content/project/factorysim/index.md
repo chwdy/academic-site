@@ -1,22 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Meditation Workbook"
-summary: "Beginner guidebook for meditation, Course project of Project Management"
+title: "Factory Simulation Project"
+summary: "Using Witness to simulate the production environment "
 authors: [DiweiZhu]
-tags: [Project Management]
+tags: [IE]
 categories: []
-date: 2021-01-14T19:51:30-05:00
+date: 2021-01-15T15:45:49-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://chwdy.github.io/MeditationWorkbook/"
+external_link: "/project/factorysim/Presentation.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Factory Simulation Project"
+  focal_point: "smart"
   preview_only: false
 
 # Custom links (optional).
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+

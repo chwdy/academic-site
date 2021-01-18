@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Meditation Workbook"
-summary: "Beginner guidebook for meditation, Course project of Project Management"
+title: "Perspective Students Persona Modeling"
+summary: "Build perspective students persona based on historial database for River university marketing department"
 authors: [DiweiZhu]
-tags: [Project Management]
+tags: [Business Analysis]
 categories: []
-date: 2021-01-14T19:51:30-05:00
+date: 2021-01-15T15:43:01-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://chwdy.github.io/MeditationWorkbook/"
+external_link: "/project/persona/Presentation.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

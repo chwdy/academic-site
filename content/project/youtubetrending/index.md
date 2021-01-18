@@ -1,22 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Meditation Workbook"
-summary: "Beginner guidebook for meditation, Course project of Project Management"
+title: "Youtube Trending Analysis"
+summary: "summairzed the features of trending videos and created an engagament score to measure channels performance"
 authors: [DiweiZhu]
-tags: [Project Management]
+tags: [Business Analysis]
 categories: []
-date: 2021-01-14T19:51:30-05:00
+date: 2021-01-15T15:46:01-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://chwdy.github.io/MeditationWorkbook/"
+external_link: "/project/youtubetrending/Presentation.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Youtube Trending Analysis"
+  focal_point: "smart"
   preview_only: false
 
 # Custom links (optional).

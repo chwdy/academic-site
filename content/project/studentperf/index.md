@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Meditation Workbook"
-summary: "Beginner guidebook for meditation, Course project of Project Management"
+title: "Student Performance Prediction"
+summary: "Predict student's final grade range based on their background"
 authors: [DiweiZhu]
-tags: [Project Management]
+tags: [Machine Learning]
 categories: []
-date: 2021-01-14T19:51:30-05:00
+date: 2021-01-15T15:45:13-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://chwdy.github.io/MeditationWorkbook/"
+external_link: "/project/studentperf/report.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

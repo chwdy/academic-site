@@ -1,22 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Meditation Workbook"
-summary: "Beginner guidebook for meditation, Course project of Project Management"
+title: "Cloth Retail Analysis"
+summary: "Visualizaed Sales data of cloths in four states in Australia and Predict its trends on monthly basis"
 authors: [DiweiZhu]
-tags: [Project Management]
+tags: [Tableau]
 categories: []
-date: 2021-01-14T19:51:30-05:00
+date: 2021-01-15T15:43:15-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://chwdy.github.io/MeditationWorkbook/"
+external_link: "https://public.tableau.com/profile/diwei.zhu#!/vizhome/ClothRetailAnalysis_16109219485020/finalpresentaion"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
+image: 
+  caption: "Cloth Retail Analysis"
+  focal_point: "smart"
   preview_only: false
 
 # Custom links (optional).

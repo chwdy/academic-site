@@ -1,22 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Meditation Workbook"
-summary: "Beginner guidebook for meditation, Course project of Project Management"
-authors: [DiweiZhu]
-tags: [Project Management]
+title: "Loan Default Risk Prediction"
+summary: "Use machine learning model to predict the clients' probability of paying back the loan"
+authors: [Diwei Zhu]
+tags: [Machine Learning,Business Analysis]
 categories: []
-date: 2021-01-14T19:51:30-05:00
+date: 2021-01-15T15:42:46-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://chwdy.github.io/MeditationWorkbook/"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Loan default risk"
+  focal_point: "smart"
   preview_only: false
 
 # Custom links (optional).
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/chwdy/BA-Project2-RCode"
+url_pdf: "/project/defaultrisk/Presentation.pdf"
 url_slides: ""
 url_video: ""
 
@@ -39,3 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+
+
+

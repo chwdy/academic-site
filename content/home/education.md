@@ -29,7 +29,8 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-      Coursework:
+      GPA:3.87/4.00  
+          Coursework:
         * MG-GY 8413 Business Analytics
         * MG-GY 9753 Machine Learning
         * MG-GY 8411 Data Engineering
@@ -45,11 +46,22 @@ experience:
   - title: Bachelor of Management
     company: Northeastern University - China
     company_url: ''
-    location: Shenyang , China
+    location: Shenyang , China    
     date_start: '2015-09-01'
     date_end: '2019-07-01'
     description: |2- 
+      GPA:3.50/5.00 (85%)  
       Coursework : Quality Control & Reliability, System Engineering, Production Planning & Control
-      
+  
+  - title: Visiting Student
+    company: Columbia University
+    company_url: ''
+    location: Manhattan , New York
+    sth:  
+    date_start: '2015-09-01'
+    date_end: '2019-07-01'
+    description: |2- 
+        GPA:3.42/4.00  
+        Coursework : Quality Control & Reliability, System Engineering, Production Planning & Control    
 
 ---
