@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Loan Default Risk Prediction"
-summary: "Use machine learning model to predict the clients' probability of paying back the loan"
+summary: "Using machine learning model to predict the clients' probability of paying back the loan"
 authors: [Diwei Zhu]
 tags: [Machine Learning,Business Analysis]
 categories: []
