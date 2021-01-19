@@ -67,10 +67,19 @@ user_groups:
 - Group 1
 - Group 2
 ---
-- Currently seeking opportunities for Business/ Data Analysts, consultant, and Frontend developer
-- Current student of Industrial engineering at NYU, expect to graduate in May 2021
 
-I am passionate about coding and have proven to be a quick learner. Experienced with R, Python, SQL, and visualizations, I was able to build data models for Data Analysis projects. On top of that, I aced Machine learning projects which require me to do build my own model, perform validation and tuning parameters. In addition, my passion for coding has led me to pick up new coding languages and has allowed me to work on Front End applications.
+
+Hello, I am Diwei Zhu, a programming enthusiast who loves to seek logic behind technical solutions. I see the programming as a stepping stone to the problem solving and I see data as an accurate record of a real-life scenario; be it a problem or a solution. I love to discover the problem behind the numbers and find the solutions with them.  
+
+My programming journey began in junior high school where I really enjoyed the process of creating cool solutions in a form of applications. It has always felt rewarding and, the excitement has extended my abilities from building the small applications to the bigger more complex ones which uses machine learning.  
+
+With the advent of AI and machine learning, my feeling for the data and its use has solidified. This is exactly what I want to do! It makes me feel astonished at how vast amounts of data can be made use of in such benefiting ways. What first started as a novice learning took the form of a passion, a desire to decode and understand the technology to its core.  
+
+I am passionate about Data Analytics, Business Analytics, and Product Development, and I look forward to harnessing every opportunity to learn better.
+
+
+- Currently seeking opportunities for Business/ Data Analysts, consultant, and Frontend developer
+- Current student of Industrial engineering at NYU, expect to graduate in May 2021  
 
 The following are my technical abilities:
 - Programming languages : HTML, CSS, JavaScript
