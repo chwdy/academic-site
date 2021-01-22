@@ -27,7 +27,7 @@ if [ $1 = "push" ]; then
     \033[0m"
 
     # Build the project.
-    hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+    env HUGO_ENV="production" hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
     # Go To Public folder
     cd public
