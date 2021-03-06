@@ -85,4 +85,4 @@ The following are my technical abilities:
 - Programming languages : HTML, CSS, JavaScript
 - Front End frameworks: Node.JS and ReactJS
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "Diwei_Zhu_NYU_IE_9178646724_210107-BA.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "Diwei_Zhu_NYU_IE_9178646724_210306-everything.pdf" "newtab" >}}resumé{{< /staticref >}}.
