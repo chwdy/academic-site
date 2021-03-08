@@ -9,7 +9,7 @@ categories: []
 date: 2021-01-15T15:45:00-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "/project/covid19effect/Presentation.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "/project/covid19effect/Presentation.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
