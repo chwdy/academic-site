@@ -26,13 +26,14 @@ experience:
     company: Element 451
     company_url: ''
     location: New York, New York
-    date_start: '2020-03-18'
-    date_end: '2019-05-18'
+    date_start: '2021-03-18'
+    date_end: '2021-05-18'
     description: |2-
-      •	Pipelined the process including data engineering, auto tuning, training, prediction and validation
-      •	Used NLTK (stemming) to extract subject’s meanings and Spacy library to perform Name Entity Recognition
-      •	Built hybrid neural network with LSTM and feature input with Keras and autotuned parameters via Keras-tuner
-      •	Achieved 80% accuracy on predicting the email open rate with given email’s subject, date and recipient` numbers
+      Worked on an NLP model using TensorFlow predicting effectiveness of marketing email  
+      •	Pipelined the process including data engineering, auto tuning, training and validation  
+      •	Used NLTK to extract subject’s meanings and Spacy library to perform NER  
+      •	Built hybrid neural network with LSTM on Keras and autotuned via Keras-tuner  
+      •	Achieved 80% accuracy on predicting the email open rate with given email’s subject  
 
   
   - title: SAP Implementation Project Intern
