@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 50
 
 title: Experience
 subtitle:
@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Analyst Intern
+    company: Element 451
+    company_url: ''
+    location: New York, New York
+    date_start: '2020-03-18'
+    date_end: '2019-05-18'
+    description: |2-
+      •	Pipelined the process including data engineering, auto tuning, training, prediction and validation
+      •	Used NLTK (stemming) to extract subject’s meanings and Spacy library to perform Name Entity Recognition
+      •	Built hybrid neural network with LSTM and feature input with Keras and autotuned parameters via Keras-tuner
+      •	Achieved 80% accuracy on predicting the email open rate with given email’s subject, date and recipient` numbers
+
+  
   - title: SAP Implementation Project Intern
     company: Capgemini Consulting
     company_url: ''

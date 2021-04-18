@@ -24,12 +24,13 @@ bio: I am quick learner intrested in analyst and programming
 interests:
 - Programming
 - Analytics
+- Visualization
 
 education:
   courses:
   - course: MS Industrial Engineering
     institution: New York University
-    year: 2019 - 2021(expected)
+    year: 2019 - 2021
   - course: Industrial Engineering, Bachelor of Buniness Administration
     institution: Northeastern University - China
     year: 2015 - 2019
@@ -75,14 +76,15 @@ My programming journey began in junior high school where I really enjoyed the pr
 
 With the advent of AI and machine learning, my feeling for the data and its use has solidified. This is exactly what I want to do! It makes me feel astonished at how vast amounts of data can be made use of in such benefiting ways. What first started as a novice learning took the form of a passion, a desire to decode and understand the technology to its core.  
 
-I am passionate about Data Analytics, Business Analytics, and Product Development, and I look forward to harnessing every opportunity to learn better.
+I am passionate about Data Analytics, Business Analytics, and Programming, and I look forward to harnessing every opportunity to learn better.
 
-
-- Currently seeking opportunities for Business/ Data Analysts, consultant, and Frontend developer
+- Currently seeking opportunities for Business/ Data Analysts, consultant, and Business Intelligence Engineer
 - Current student of Industrial engineering at NYU, expect to graduate in May 2021  
 
 The following are my technical abilities:
-- Programming languages : HTML, CSS, JavaScript
-- Front End frameworks: Node.JS and ReactJS
+- Programming - Python, R, SQL, HTML, CSS, JavaScript
+- Data Visualization - Tableau(certified), Seaborn, Matplotlib
+- Front End frameworks - Node.JS and ReactJS
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "Diwei_Zhu_NYU_IE_9178646724_210306-everything.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "Diwei_Zhu_NYU_IE_9178646724_210418-DA.pdf" "newtab" >}}resumé{{< /staticref >}}.

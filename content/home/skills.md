@@ -8,7 +8,7 @@ headless: true
 
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Skills
 subtitle:
@@ -17,31 +17,33 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: R, Python, Matplotlib/ggplot2, Numpy, Pandas
+- description:  Numpy, Pandas, NLTK, NLP
   icon: database
   icon_pack: fas
   name: Data analyst
-- description: Tableau Desktop Specialist
+- description: Tableau Desktop Specialist, Matplotlib/ggplot2, seaborn
   icon: chart-line
   icon_pack: fas
   name: Visualization
-- description: JavaScript, SQL, Java, C++
+- description: R, Python, JavaScript, SQL, Java, C++
   icon: code
   icon_pack: fas
   name: Programming
 
-- description: Git, VS Code, Rstudio, 
+- description: Git, VS Code, R studio, MS Excel, Premire Pro
   icon: tools
   icon_pack: fas
   name: Tools
-- description:  HTML, CSS, Node.js, React, RESTful
-  icon: chrome
-  icon_pack: fab
-  name: Web Development
-- description: Sklearn, Pandas, TensorFlow
+- description: Keras, Keras-Tuner, Sklearn, Pandas, TensorFlow
   icon: atom
   icon_pack: fas
   name: Machine Learning
+
+- description:  HTML, CSS, Node.js, ReactJs, RESTful
+  icon: chrome
+  icon_pack: fab
+  name: Web Development
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
